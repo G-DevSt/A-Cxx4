@@ -1,32 +1,32 @@
 {
         
         "activeAds" : "YES",
-		"isVending" : "NO",
+	"isVending" : "NO",
         "adsCount"     : 3,
 
         "ADMOBID" : "ca-app-pub-3940256099942544~3347511713",
-        "ADMOBbannerID"     : "ca-app-pub-3940256099942544/6300978111" ,
-        "ADMOBinterstitialID" : "ca-app-pub-3940256099942544/1033173712",
-        "ADMOBrewardID"     : "ca-app-pub-3940256099942544/5224354917" ,
+        "ADMOBbannerID"     : "" ,
+        "ADMOBinterstitialID" : "",
+        "ADMOBrewardID"     : "" ,
 
-        "UnityGameID" : "5551797",
-		"UnityInterstitialID" : "Interstitial_Android",
-		"UnityRewardedID" : "Rewarded_Android",
+        "UnityGameID" : "5554037",
+	"UnityInterstitialID" : "Interstitial_Android",
+	"UnityRewardedID" : "Rewarded_Android",
 
-        "FANbannerID"     : "IMG_16_9_LINK#2109954819150266_2109957119150036" ,
-        "FANinterstitialID" : "IMG_16_9_LINK#2109954819150266_2109960142483067",
-        "FANrewardID"     : "IMG_16_9_LINK#2109954819150266_2109961085816306" ,
+        "FANbannerID"     : "" ,
+        "FANinterstitialID" : "",
+        "FANrewardID"     : "" ,
 
-        "MAXsdkKey" : "VUM-9bIldS5mM5b250fPppI3iqXL8oCdGZcQ9w9oMEXkK8mP8QpyE6_xxWH3IUhT2JzCD6-aLVJfd34nUuik-h",
-        "MAXbannerID"     : "6d9c0c25f6f347d3" ,
-        "MAXinterstitialID" : "ad7692cec4f86427",
-        "MAXrewardID"     : "533b0e5d353d46dc" ,
+        "MAXsdkKey" : "000000000000000000000000",
+        "MAXbannerID"     : "00000000" ,
+        "MAXinterstitialID" : "00000000",
+        "MAXrewardID"     : "00000000" ,
 
         "termsOfServiceLink" : "https://sybogames.com/privacy-policy/",
         "rateUsLink" : "",
         "moreGamesLink"     : "" ,
 
-		"OrderFile"     : "https://raw.githubusercontent.com/G-DevSt/A-Cxx4/main/Barry%20Prison%20Escape%20FileLoader/OrderFile.txt" ,
-		"crossPromotionImageURL"     : "",
-		"crossPromotionGameURL"     : ""
+	"OrderFile"     : "https://raw.githubusercontent.com/G-DevSt/A-Cxx4/main/Barry%20Prison%20Escape%20FileLoader/OrderFile.txt" ,
+	"crossPromotionImageURL"     : "",
+	"crossPromotionGameURL"     : ""
 }
