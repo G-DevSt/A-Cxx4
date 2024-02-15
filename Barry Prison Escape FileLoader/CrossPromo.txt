@@ -2,8 +2,8 @@
 [
 
 {
-"Name": "NAME1",
-"Description": "Des 1",
+"Name": "",
+"Description": "",
 "IconUrl": "",
 "GameUrl": ""
 },
@@ -16,8 +16,8 @@
 },
 
 {
-"Name": "NAME2",
-"Description": "Des 2",
+"Name": "",
+"Description": "",
 "IconUrl": "",
 "GameUrl": ""
 }
