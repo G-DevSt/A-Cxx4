@@ -26,7 +26,7 @@
         "rateUsLink" : "",
         "moreGamesLink"     : "" ,
 
-		"OrderFile"     : "https://raw.githubusercontent.com/G-DevSt/A-cxx3-Barry-Prison-1/main/file%20to%20upload/OrderFile.txt" ,
+		"OrderFile"     : "https://raw.githubusercontent.com/G-DevSt/A-Cxx4/main/Barry%20Prison%20Escape%20FileLoader/OrderFile.txt" ,
 		"crossPromotionImageURL"     : "",
 		"crossPromotionGameURL"     : ""
 }
